@@ -1,5 +1,9 @@
 # Box Office Revenue Predictor
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://davejoe506-box-office.streamlit.app/)
+
+**Live Web Application:** [Click here to launch the Box Office Predictor](https://davejoe506-box-office.streamlit.app/)
+
 ---
 
 ## Table of Contents
