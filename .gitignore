@@ -1,0 +1,4 @@
+.env
+__pycache__/
+data/raw/
+data/clean/tmdb_movies_clean.csv
