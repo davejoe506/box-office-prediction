@@ -18,7 +18,7 @@
 ---
 
 ## Project Context
-This project applies machine learning to predict a movie's worldwide theatrical box office revenue based entirely on pre-release features (budget, genre, runtime, cast/director track records, release seasonality, etc). By building an automated data pipeline, this project transforms raw historical movie data into a predictive model designed to forecast blockbuster success."
+This project applies machine learning to predict a movie's worldwide theatrical box office revenue based entirely on pre-release features (budget, genre, runtime, cast/director track records, release seasonality, etc). By building an automated data pipeline, this project transforms raw historical movie data into a predictive model designed to forecast blockbuster success.
 
 Key insights from the Exploratory Data Analysis (EDA) revealed a strong linear relationship between production spend and financial success. The final XGBoost model, augmented with log transformation and SHAP value explainability, confirmed that an inflation-adjusted budget and an established franchise property are the strongest predictors of financial success.
 
